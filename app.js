@@ -1,3 +1,2 @@
-document.write("Bashir Onimisi")
-document.write("5'10")
-document.write("Nigeria")
+document.write("Name: Bashir Onimisi Country:Nigeria Height: 5'10")
+
